@@ -7,7 +7,6 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES2020-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License: MIT](https://img.shields.io/badge/License-MIT-6c63ff?style=flat)](LICENSE)
 
 </div>
 
@@ -126,3 +125,4 @@ form.addEventListener('submit', async (e) => {
 | Edge 90+ | ✅ Full |
 
 > `backdrop-filter` requires Safari 15+ or Chrome 76+ for glassmorphism effect.
+
